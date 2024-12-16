@@ -2,7 +2,6 @@ import pytest
 from src.students import Students
 from src.presence import Presence
 from src.students_data import Data
-import os
 
 # 3. operacje na studentach
 

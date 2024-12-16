@@ -1,10 +1,10 @@
-from src.students import Students
+""" from src.students import Students
 from src.presence import Presence
 
 def print_student_list():
     for x in Students.students:
         print(x)
-
+ """
 # student1 = Students("Zuzia", "Wilk", Presence.present())
 # student2 = Students("Kinga", "Olczynska", Presence.absent())
 # student3 = Students("Oliwier", "Nowak", Presence.present())

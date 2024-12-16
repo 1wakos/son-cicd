@@ -48,5 +48,5 @@ class Students:
                         'presence': student.presence
                     })
 
-        except FileNotFoundError as e:
+        except FileNotFoundError:
             raise FileNotFoundError(f"File doesn't exist at {path}")
